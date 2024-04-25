@@ -1,0 +1,38 @@
+.App {
+  font-family: system-ui;
+  padding: 20px;
+  background: #2b2b2b;
+  min-height: 100vh;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.buttons {
+  display: flex;
+}
+
+.buttons button {
+  margin-right: 5px;
+}
+
+ul {
+  padding-left: 16px;
+}
+
+.list {
+  border: 2px solid rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.buttons {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 6px 15px;
+  border: 0;
+  border-radius: 6px;
+}
